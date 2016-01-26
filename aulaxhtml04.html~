@@ -1,0 +1,54 @@
+<html>
+	<head>
+		<title>XHTML Aula04</title>
+	<link rel="apple-touch-icon" sizes="57x57" href="./img/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="./img/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="./img/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="./img/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="./img/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="./img/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="./img/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="./img/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="./img/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
+	<link rel="manifest" href="./img/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="./img/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	</head>
+	
+	<body style="background-color:#87CEEB;">
+		<h1 align ="center" style="color: blue;">Lorem Ipsum</h1>
+		<h2 align ="center" style="color: #660000;">Dolor Sit</h2>
+		
+		<p style="text-align: center;">
+		<img src="img/foto1.jpg" style="width: 50%;" alt="Profile Avatar" />
+		</p>
+		
+		<p>
+		Lorem ipsum <b>dolor</b> sit amet, consectetur adipiscing elit. Aliquam eget tincidunt mi. Aenean ut turpis nec 
+		ipsum ornare dignissim at nec ex. Ut vestibulum lacus a gravida <strong>consequat.</strong>
+		</p>
+		
+		<p>
+		Sed urna dui, tristique at risus in, tempus interdum quam. Nulla sodales ex vel nisl ullamcorper lacinia<br />			
+		<a href="aulaxhtml03.html" target="_blank">aula 1 de html</a>
+		<a href="../Site1/index.html">primeiro site</a>
+
+		<img src="img/foto2.jpg" style="width: 80px;" alt="ADM" align="right" />
+		
+		<ul>
+		<li>Proin tincidunt leo at fermentum efficitur. <a href="http://www.facebook.com/camisnroses" target="_blank"> Facebook </a></li> 
+		<li>Donec quis turpis eu neque lobortis tempus a massa.</li>
+		</ul>
+		S<sup>ra</sup> Camila Andrade <br />
+		<i><q>Lorem Ipsum</q></i> 
+		</p>
+
+
+	</body>
+
+</html>
